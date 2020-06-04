@@ -1,6 +1,6 @@
 # Ironhack project 5 Lego linear model regression
 
-![GitHub Logo]()
+![GitHub Logo](https://www.lego.com/cdn/cs/set/assets/blt43d71bdb7a2ee793/pick-a-brick-banner-background-large.jpg?width=1320&height=200&dpr=1)
 
 ### Project description
 Group project
