@@ -52,4 +52,3 @@ OPEN A JUPYTER INSTANCE TO BE ABLE TO READ THE .ipynb FILE HERE ON GITHUB
 Source page : https://github.com/seankross/lego/blob/master/data-tidy/legosets.csv
 
 Presentation : https://docs.google.com/presentation/d/1oAkaVx9DphL43mfavSeFqCpin5akDWjV-D7Yha8LUak/edit#slide=id.p
-
